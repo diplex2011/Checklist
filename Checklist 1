@@ -1,0 +1,12 @@
+1.	Check the mesh (vertical / horizontal alignment).                                                          Passed.
+2.	Checking in different resolutions:
+    a. All elements are displayed correctly;                                                                   Passed.
+    b. There should not be a horizontal scroll for the resolutions specified in the technical specification.   Passed.
+3.  Checking the page scaling (range 75-150%) - the page should look correct.                                  Passed.
+4.  Change the size of the text box should not break the layout.                                               Passed.
+5.  Check if the fields in focus are highlighted correctly.                                                    Passed.
+6.  Whether the text is highlighted in text blocks.                                                            Passed.
+7.  Do click-click menu items (links / buttons).                                                               Passed.
+8.  Check text for errors.                                                                                     Failed:
+                                                                                               1. https://www.screencast.com/t/wj68jiDa
+                                                                                               2.	https://www.screencast.com/t/JBoqpvDQQnH
